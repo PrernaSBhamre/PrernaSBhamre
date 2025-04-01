@@ -17,18 +17,23 @@
 
 ---
 
+
 ### 📡 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/prerna-bhamre-it31">
-    <img src="https://img.shields.io/badge/LinkedIn-Prerna%20Bhamre-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+  <a href="https://www.linkedin.com/in/prerna-bhamre-it31" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.codechef.com/users/prerna_bhamre">
-    <img src="https://img.shields.io/badge/CodeChef-Prerna%20Bhamre-7b5d2d?style=for-the-badge&logo=codechef" alt="CodeChef Profile"/>
+  <a href="https://www.codechef.com/users/prerna_bhamre" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/prernabhamre123">
-    <img src="https://img.shields.io/badge/HackerRank-Prerna%20Bhamre-2ec866?style=for-the-badge&logo=hackerrank" alt="HackerRank Profile"/>
+<!--   <a href="https://www.hackerrank.com/profile/prernabhamre123" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+  </a> -->
+  <a href="mailto:prernabhamre2005@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
@@ -46,13 +51,7 @@
 
 ---
 
-### 🎮 Fun Mini-Game  
-Try clicking the button below to test your luck!  
-<p align="center">
-  <a href="https://prernasbhamre.github.io/lucky-game" target="_blank">
-    <img src="https://img.shields.io/badge/Try%20Your%20Luck%20🎲-Play%20Now-red?style=for-the-badge&logo=github" alt="Lucky Game"/>
-  </a>
-</p>  
+
 
 ---
 
