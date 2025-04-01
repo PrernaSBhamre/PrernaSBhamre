@@ -1,13 +1,13 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #ff6347;">✨ Hey there! I'm <span style="color: #1e90ff;">Prerna Bhamre</span> 👋 </h1>  
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #32cd32;">🚀 Passionate Web Developer | Lifelong Learner | Tech Enthusiast from India</h3>  
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #ff6347;">✨ Hey there! I'm <span style="color: #1e90ff;">Prerna Bhamre</span> 👋</h1>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #32cd32;">🚀 Passionate Web Developer | Lifelong Learner | Tech Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10" style="border-radius: 10px;">
-</p>  
+</p>
 
 ---
 
-### 🌟 About Me 🌟  
+### 🌟 About Me 🌟
 <p style="font-family: 'Verdana', sans-serif; font-size: 1.2em; text-align: center; color: #333;">
   - 🔭 Currently diving deep into <strong>Web Development Projects</strong>  
   <br> 
@@ -17,12 +17,12 @@
   <br> 
   - 📫 Reach me at <a href="mailto:prernabhamre2005@gmail.com" style="color: #ff6347;">prernabhamre2005@gmail.com</a>  
   <br> 
-  - 🎮 Fun fact: I love coding as much as a great Netflix marathon!  
+  - 🎮 Fun fact: I code better with caffeine ☕ 
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="300px" alt="GIF Animation">
-</p>  
+</p>
 
 ---
 
@@ -47,7 +47,7 @@
 ### 🔧 Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,androidstudio,c,git,firebase" alt="Languages and Tools" style="border-radius: 15px;">
-</p>  
+</p>
 
 ---
 
@@ -60,6 +60,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prernasbhamre&theme=radical" alt="GitHub Streak" style="border-radius: 10px;">
 </p>
 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernasbhamre&layout=compact&theme=radical" alt="Top Languages Used" style="border-radius: 10px;">
 </p>
@@ -67,6 +69,7 @@
 ---
 
 ### 📊 My GitHub Contributions  
+<!-- Random Contribution Graph Image -->
 <p align="center">
   <img src="https://ghchart.rshb.xyz/prernasbhamre" alt="GitHub Contributions" style="border-radius: 10px;">
 </p>
@@ -74,11 +77,9 @@
 ---
 
 ### 💡 Final Touch  
+<p align="center">Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on any project.</p>
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555;">
-  Thanks for visiting my profile! 🚀  
-  Feel free to check out my repositories and get in touch if you'd like to collaborate on any project.  
+  "Turning Coffee Into Code, One Line at a Time" ☕💻  
 </p>
 
-<p align="center" style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #555;">
-  🚀 Happy Coding! 😊
-</p>
+
