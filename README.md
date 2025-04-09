@@ -51,30 +51,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prernasbhamre&show_icons=true&theme=radical&hide_title=true&hide=prs" alt="GitHub Stats" style="border-radius: 10px;">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prernasbhamre&theme=radical" alt="GitHub Streak" style="border-radius: 10px;">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernasbhamre&layout=compact&theme=radical" alt="Top Languages Used" style="border-radius: 10px;">
-</p>
-
----
-
-### 📊 My GitHub Contributions  
-<!-- Random Contribution Graph Image -->
-<p align="center">
-  <img src="https://ghchart.rshb.xyz/prernasbhamre" alt="GitHub Contributions" style="border-radius: 10px;">
-</p>
-
----
 
 ### 💡 Final Touch  
 <p align="center">Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on any project.</p>
